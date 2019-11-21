@@ -25,13 +25,8 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Got</find>
-      <find>KafkaConsumer</find>
-      <find>add</find>
-      <find>msgQueue</find>
-    </findStrings>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -45,6 +40,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1TvGzfF4j3YHwEzZrlNR41E5ynZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -238,7 +234,7 @@
       <workItem from="1572355522922" duration="4410000" />
       <workItem from="1572444581875" duration="1106000" />
       <workItem from="1573140619600" duration="4758000" />
-      <workItem from="1574333420753" duration="822000" />
+      <workItem from="1574333420753" duration="1095000" />
     </task>
     <servers />
   </component>

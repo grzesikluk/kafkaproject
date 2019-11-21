@@ -1,9 +1,0 @@
-This is
-my
-first message.
-It will
-be published
-to some topic
-for
-example
-first topic.
